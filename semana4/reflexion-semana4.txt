@@ -1,0 +1,12 @@
+¿Por qué es importante que las comunidades o iniciativas
+ciudadanas puedan construir herramientas tecnológicas propias 
+utilizando tecnologías abiertas como Node.js?
+ 
+ R/Cuando una comunidad depende de grandes corporaciones 
+ tecnológicas o grandes sitios webs que no conocen exactamente
+ las situaciones de estas comunidades, quedan sujetas a una
+ cadena de desinformación, a sus cambios de políticas y los 
+ cierres inesperados de los servidores. Si estas tienen el 
+ conocimiento y privilegio para crear sus propias herramientas
+ tecnológicas, tendrían autonomía, resiliencia y control
+ sobre sus propios datos y procesos
